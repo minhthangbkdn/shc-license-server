@@ -7,7 +7,7 @@
     {
       "key": "SHC-260617-0001-5HUV-5ZPM-33KX",
       "status": "active",
-      "user": "",
+      "user": "MinhTan",
       "machine_id": "",
       "expires": "2026-12-31",
       "note": "Key #0001 - user/machine_id để trống nghĩa là chưa khóa user/máy"
